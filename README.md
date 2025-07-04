@@ -7,6 +7,8 @@ Here’s what I do:
 - 📊 Data Visualization with Tableau
 - 🚀 Projects in Web Scraping, Exploratory Data Analytics
 
+  ![Profile views](https://komarev.com/ghpvc/?username=aniketsawant2982000&label=Profile%20views&color=0e75b6&style=flat-square)
+
 ## 🧠 Projects
 - [Customer Segmentation](https://github.com/aniketsawant2982000/Customer-Segmentation)
 - [JustWatch Web Scraper](https://github.com/aniketsawant2982000/Web-Scraping)

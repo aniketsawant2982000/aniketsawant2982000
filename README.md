@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello there, I'm Aniket Sawant 👋
 
-<!--
-**aniketsawant2982000/aniketsawant2982000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast pursuing a career in **Data Analysis**.  
+Here’s what I do:
 
-Here are some ideas to get you started:
+- 💻 Python | SQL
+- 📊 Data Visualization with Tableau
+- 🚀 Projects in Web Scraping, Exploratory Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+- [Customer Segmentation](https://github.com/aniketsawant2982000/Customer-Segmentation)
+- [JustWatch Web Scraper](https://github.com/aniketsawant2982000/Web-Scraping)
+- [Airbnb Data Analysis](https://github.com/aniketsawant/airbnb-tableau)
+- [Product Dissection of Blinkit](https://github.com/aniketsawant2982000/Product-Dissection-of-Blinkit)
+- [Exploratory Data Analysis of AirBnB](https://github.com/aniketsawant2982000/Exploratory-Data-Analysis--AirBnB-Booking-Analysis)
+- [Tableau Dashboard of AirBnB](https://github.com/aniketsawant2982000/Airbnb-tableau-dashboard)
+
+  ## 📚 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+## 📫 Contact
+- [LinkedIn](www.linkedin.com/in/aniketsawant2982000)
+- Email: aniketsawant2982000@gmail.com

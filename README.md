@@ -23,6 +23,10 @@ Here’s what I do:
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green?style=flat)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsawant2982000&layout=compact&hide=html)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketsawant2982000&show_icons=true&count_private=true&hide=contribs)
+
 ## 📫 Contact
 - [LinkedIn](www.linkedin.com/in/aniketsawant2982000)
 - Email: aniketsawant2982000@gmail.com
